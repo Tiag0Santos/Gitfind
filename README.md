@@ -6,6 +6,6 @@
 
 ## 💻 Tecnologias utilizadas
 * HTML
-* JavaScript
 * Css
+* JavaScript
 * ReactJs
